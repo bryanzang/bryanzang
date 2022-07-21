@@ -1,3 +1,5 @@
+`Purely for educational purposes; if there is a copyright issue please let me know ASAP`
+
 [STAT 230 Course Notes F21 Edition.pdf](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155703/STAT.230.Course.Notes.F21.Edition.pdf)\
 [STAT 230 Solutions F21 Edition.pdf](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155704/STAT.230.Solutions.F21.Edition.pdf)
 
