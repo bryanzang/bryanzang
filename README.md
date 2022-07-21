@@ -21,9 +21,10 @@ Core Courses I have taken and their course notes:
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH138</a></td>
   </tr>
     <th>Second Year</th>
+    <td><a href="https://student.cs.uwaterloo.ca/~cs200/">CS200</a></td>
     <td><a href="https://student.cs.uwaterloo.ca/~cs230/s22/lectures.shtml">CS230</a></td>
     <td>ECON201</td>
-    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH235">MATH235</a></td>
+    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH"">MATH235</a></td>
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH237</a></td>
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH239</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT230">STAT230</a></td>
