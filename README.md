@@ -35,7 +35,7 @@ Core Courses I have taken and their course notes:
     <td>CS234</td>
     <td>ECON254</td>
     <td>STAT330</td>
-    <td><TAT331</td>
+    <td>STAT331</td>
     <td>STAT332</td>
   </tr>
 </table>
