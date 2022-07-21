@@ -32,7 +32,7 @@ Core Courses I have taken:
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT333">STAT333</a></td>
   </tr>
   <tr>
-    <th>Third Year (Current)</th>
+    <th>Third Year *</th>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS234">CS234</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON254">ECON254</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT330">STAT330</a></td>
@@ -40,5 +40,7 @@ Core Courses I have taken:
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT332">STAT332</a></td>
   </tr>
 </table>
+
+* Current ongoing school year
 
 For additional information regarding these courses: <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html">CS courses</a>, <a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html">ECON courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html">MATH courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html">STAT courses</a>
