@@ -18,11 +18,11 @@
   </tr>
   <tr>
    <th>MATH237</th>
-   <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155623/237_Course_Notes_6_1_wCorr.pdf">Course Notes W21</a></td>
+   <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155623/237_Course_Notes_6_1_wCorr.pdf">Course Notes W22</a></td>
   </tr>
   <tr>
    <th>MATH239</th>
-   <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155616/MATH-239-Part-I-enumeration.pdf">Course Notes - Enumeration (Part I) W21</a></td>
-   <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155617/MATH-239-Part-II-graph-theory.pdf">Course Notes - Graph Theory (Part II) W21</a></td>
+   <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155616/MATH-239-Part-I-enumeration.pdf">Course Notes - Enumeration (Part I) W22</a></td>
+   <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155617/MATH-239-Part-II-graph-theory.pdf">Course Notes - Graph Theory (Part II) W22</a></td>
   </tr>
 </table> 
