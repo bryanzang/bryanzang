@@ -7,7 +7,7 @@ Major: Honours Statistics
 Minors: Computing, Econ
 ```
 
-My resume: [PDF](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155858/BryanZang__Resume.pdf)
+My resume: [PDF Form](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155858/BryanZang__Resume.pdf)
 
 Core Courses I have taken and their course notes:
 <table>
