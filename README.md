@@ -13,8 +13,8 @@ Core Courses I have taken:
     <th>First Year</th>
     <td>CS135</td>
     <td>CS116</td>
-    <td>ECON101</td>
-    <td>ECON102</td>
+    <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON101">ECON101</a></td>
+    <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON102">ECON102</a></td>
     <td>MATH135</td>
     <td>MATH136</td>
     <td>MATH137</td>
