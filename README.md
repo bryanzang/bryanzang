@@ -27,9 +27,9 @@ Core Courses I have taken and their course notes:
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH"">MATH235</a></td>
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH237</a></td>
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH239</a></td>
-    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT230">STAT230</a></td>
-    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT231">STAT231</a></td>
-    <td>STAT333</td>
+    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/STAT">STAT230</a></td>
+    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/STAT">STAT231</a></td>
+    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/STAT">STAT333</a></td>
   </tr>
   <tr>
     <th>Third Year *</th>
