@@ -11,33 +11,33 @@ Core Courses I have taken:
 <table>
   <tr>
     <th>First Year</th>
-    <td>CS135</td>
-    <td>CS116</td>
+    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS135">CS135</a></td>
+    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS116">CS116</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON101">ECON101</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON102">ECON102</a></td>
-    <td>MATH135</td>
-    <td>MATH136</td>
-    <td>MATH137</td>
-    <td>MATH138</td>
+    <td><a href=""></a>MATH135</td>
+    <td><a href=""></a>MATH136</td>
+    <td><a href=""></a>MATH137</td>
+    <td><a href=""></a>MATH138</td>
   </tr>
   <tr>
     <th>Second Year</th>
-    <td>CS230</td>
-    <td>ECON201</td>
-    <td>MATH235</td>
-    <td>MATH237</td>
-    <td>MATH239</td>
-    <td>STAT230</td>
-    <td>STAT231</td>
-    <td>STAT333</td>
+    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS230">CS230</a></td>
+    <td><a href=""></a>ECON201</td>
+    <td><a href=""></a>MATH235</td>
+    <td><a href=""></a>MATH237</td>
+    <td><a href=""></a>MATH239</td>
+    <td><a href=""></a>STAT230</td>
+    <td><a href=""></a>STAT231</td>
+    <td><a href=""></a>STAT333</td>
   </tr>
   <tr>
     <th>Third Year (Current)</th>
-    <td>CS234</td>
-    <td>ECON254</td>
-    <td>STAT330</td>
-    <td>STAT331</td>
-    <td>STAT332</td>
+    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS234">CS234</a></td>
+    <td><a href=""></a>ECON254</td>
+    <td><a href=""></a>STAT330</td>
+    <td><a href=""></a>STAT331</td>
+    <td><a href=""></a>STAT332</td>
   </tr>
 </table>
 
