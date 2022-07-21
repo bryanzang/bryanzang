@@ -15,6 +15,7 @@ Core Courses I have taken:
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS116">CS116</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON101">ECON101</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON102">ECON102</a></td>
+    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-ENGL.html#ENGL109">ENGL109</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH135">MATH135</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH136">MATH136</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH137">MATH137</a></td>
@@ -24,6 +25,7 @@ Core Courses I have taken:
     <th>Second Year</th>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS230">CS230</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON201">ECON201</a></td>
+    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-ENGL.html#ENGL108D">ENGL108D</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH235">MATH235</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH237">MATH237</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH239">MATH239</a></td>
