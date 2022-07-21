@@ -12,6 +12,6 @@
   </tr>
   <tr>
     <th>STAT333</th>
-    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155706/Durrett2016_Book_EssentialsOfStochasticProcesse.pdf">Textbook</a></td>
+    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155706/Durrett2016_Book_EssentialsOfStochasticProcesse.pdf">Textbook S22</a></td>
   </tr>
 </table>
