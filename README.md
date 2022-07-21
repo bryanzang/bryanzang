@@ -24,7 +24,7 @@ Core Courses I have taken and their course notes:
     <td><a href="https://student.cs.uwaterloo.ca/~cs200/">CS200</a></td>
     <td><a href="https://student.cs.uwaterloo.ca/~cs230/s22/lectures.shtml">CS230</a></td>
     <td>ECON201</td>
-    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH"">MATH235</a></td>
+    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH235</a></td>
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH237</a></td>
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH239</a></td>
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/STAT">STAT230</a></td>
