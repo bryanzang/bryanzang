@@ -11,7 +11,7 @@ Core Courses I have taken:
 <table>
   <tr>
     <th>First Year</th>
-    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS135">CS135</a></td>
+    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS135" rel="noopener noreferrer" target="_blank">CS135</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS116">CS116</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON101">ECON101</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON102">ECON102</a></td>
