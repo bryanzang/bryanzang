@@ -10,7 +10,7 @@ Minors: Computing, Econ
 Core Courses I have taken and their course notes:
 <table>
   <tr>
-    <th>Year 1</th>
+    <th>Freshman</th>
     <td><a href="https://student.cs.uwaterloo.ca/~cs135/smods/topics/">CS135</a></td>
     <td>CS116</td>
     <td>ECON101</td>
@@ -20,7 +20,7 @@ Core Courses I have taken and their course notes:
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH137</a></td>
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH138</a></td>
   </tr>
-    <th>Year 2</th>
+    <th>Sophomore</th>
     <td><a href="https://student.cs.uwaterloo.ca/~cs200/">CS200</a></td>
     <td><a href="https://student.cs.uwaterloo.ca/~cs230/s22/lectures.shtml">CS230</a></td>
     <td>ECON201</td>
@@ -32,7 +32,7 @@ Core Courses I have taken and their course notes:
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/STAT">STAT333</a></td>
   </tr>
   <tr>
-    <th>Year 3*</th>
+    <th>Junior*</th>
     <td>CS234</td>
     <td>ECON254</td>
     <td>STAT330</td>
