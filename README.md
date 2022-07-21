@@ -32,7 +32,7 @@ Core Courses I have taken and their course notes:
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/STAT">STAT333</a></td>
   </tr>
   <tr>
-    <th>Third Year*</th>
+    <th>Third Year *</th>
     <td>CS234</td>
     <td>ECON254</td>
     <td>STAT330</td>
