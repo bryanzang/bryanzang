@@ -1,51 +1,7 @@
-# Bryan
+[STAT 230 Course Notes F21 Edition.pdf](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155703/STAT.230.Course.Notes.F21.Edition.pdf)\
+[STAT 230 Solutions F21 Edition.pdf](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155704/STAT.230.Solutions.F21.Edition.pdf)
 
-### I'm currently a third year undergrad at the University of Waterloo
+[STAT 231 Course Notes Spring 2022 Edition.pdf](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155699/STAT.231.Course.Notes.Spring.2022.Edition.pdf)\
+[STAT 231 Problem Solutions Spring 2022 Edition.pdf](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155700/STAT.231.Problem.Solutions.Spring.2022.Edition.pdf)
 
-```
-Major: Honours Statistics
-Minors: Computing, Econ
-```
-
-Core Courses I have taken and their course notes:
-<table>
-  <tr>
-    <th>First Year</th>
-    <td><a href="https://student.cs.uwaterloo.ca/~cs135/smods/topics/">CS135</a></td>
-    <td>CS116</td>
-    <td>ECON101</td>
-    <td>ECON102</td>
-    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH135</a></td>
-    <td><a href="https://open.math.uwaterloo.ca/1">MATH136</a></td>
-    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH137</a></td>
-    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH138</a></td>
-  </tr>
-    <th>Second Year</th>
-    <td><a href="https://student.cs.uwaterloo.ca/~cs200/">CS200</a></td>
-    <td><a href="https://student.cs.uwaterloo.ca/~cs230/s22/lectures.shtml">CS230</a></td>
-    <td>ECON201</td>
-    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH"">MATH235</a></td>
-    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH237</a></td>
-    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/tree/MATH">MATH239</a></td>
-    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT230">STAT230</a></td>
-    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT231">STAT231</a></td>
-    <td>STAT333</td>
-  </tr>
-  <tr>
-    <th>Third Year *</th>
-    <td>CS234</td>
-    <td>ECON254</td>
-    <td>STAT330</td>
-    <td>STAT331</td>
-    <td>STAT332</td>
-  </tr>
-</table>
-
-\* Current ongoing school year
-
-```
-note: course notes may not be available due to copyright issues and are replaced by substitutes where possible
-  (i.e., textbooks or official online resources may be linked)
-```
-
-For additional information regarding these courses: <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html">CS courses</a>, <a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html">ECON courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html">MATH courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html">STAT courses</a>
+[Essentials Of Stochastic Processes - Durret 2016.pdf](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155706/Durrett2016_Book_EssentialsOfStochasticProcesse.pdf)
