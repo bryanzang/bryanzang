@@ -22,7 +22,6 @@
   </tr>
   <tr>
    <th>MATH239</th>
-   <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155616/MATH-239-Part-I-enumeration.pdf">Course Notes - Enumeration (Part I) W22</a></td>
-   <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155617/MATH-239-Part-II-graph-theory.pdf">Course Notes - Graph Theory (Part II) W22</a></td>
+   <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155616/MATH-239-Part-I-enumeration.pdf">Course Notes - Enumeration (Part I) W22</a>, <a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155617/MATH-239-Part-II-graph-theory.pdf">Course Notes - Graph Theory (Part II) W22</a></td>
   </tr>
 </table> 
