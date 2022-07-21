@@ -4,7 +4,7 @@
 
 ```
 Major: Honours Statistics
-Minors: COmputing, Econ
+Minors: Computing, Econ
 ```
 
 Core Courses I have taken:
