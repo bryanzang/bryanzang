@@ -1,4 +1,4 @@
-# Bryan
+# `Bryan`
 
 ### I'm currently a third year undergrad at the University of Waterloo
 
