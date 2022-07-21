@@ -41,4 +41,4 @@ Core Courses I have taken:
   </tr>
 </table>
 
-For additional information regarding these courses: <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html" target="_blank">CS courses</a>, <a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html" target="_blank">ECON courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html" target="_blank">MATH courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html" target="_blank">STAT courses</a>
+For additional information regarding these courses: <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html" target="blank">CS courses</a>, <a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html" target="blank">ECON courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html" target="blank">MATH courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html" target="blank">STAT courses</a>
