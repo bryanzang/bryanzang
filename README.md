@@ -7,20 +7,19 @@ Major: Honours Statistics
 Minors: Computing, Econ
 ```
 
-Core Courses I have taken:
+Core Courses I have taken and their course notes:
 <table>
   <tr>
     <th>First Year</th>
-    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS135">CS135</a></td>
-    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS116">CS116</a></td>
-    <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON101">ECON101</a></td>
-    <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON102">ECON102</a></td>
-    <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH135">MATH135</a></td>
+    <td>CS135</td>
+    <td>CS116</td>
+    <td>ECON101</td>
+    <td>ECON102</td>
+    <td><a href="">MATH135</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH136">MATH136</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH137">MATH137</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html#MATH138">MATH138</a></td>
   </tr>
-  <tr>
     <th>Second Year</th>
     <td><a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html#CS230">CS230</a></td>
     <td><a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html#ECON201">ECON201</a></td>
