@@ -47,7 +47,7 @@ Core Courses I have taken and their course notes:
 
 ```
 note: course notes may not be available due to copyright issues and are replaced by substitutes where possible
-  (i.e., textbooks or official online resources may be linked)
+  (i.e., textbooks or official online resources may be linked instead)
 ```
 
 For additional information regarding these courses: <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-CS.html">CS courses</a>, <a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html">ECON courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-MATH.html">MATH courses</a>, <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html">STAT courses</a>
