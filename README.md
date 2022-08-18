@@ -13,5 +13,8 @@
   <tr>
     <th>STAT333</th>
     <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155706/Durrett2016_Book_EssentialsOfStochasticProcesse.pdf">Textbook S22</a></td>
+    <td><a href="https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9366781/STAT333.assignments.s22.zip">Assignments S22</a></td>
   </tr>
 </table>
+
+`note that the stat333 assignment solutions may contain errors as they are not official solutions`
