@@ -4,7 +4,7 @@
 
 ```
 Major: Honours Statistics
-Minors: Computing, Econ
+Minors: Computing, Combinatorics and Optimization
 ```
 
 My resume: [PDF Form](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155858/BryanZang__Resume.pdf)
