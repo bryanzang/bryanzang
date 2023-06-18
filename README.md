@@ -9,7 +9,7 @@ Minors: Computing, Combinatorics and Optimization
 
 My resume: [PDF Form](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155858/BryanZang__Resume.pdf)
 
-Core Courses I have taken and their course notes:
+Core Courses I have taken:
 <table>
   <tr>
     <th>First Year</th>
