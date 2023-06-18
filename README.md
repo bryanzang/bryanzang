@@ -35,11 +35,19 @@ Core Courses I have taken and their course notes:
   </tr>
   <tr>
     <th>Third Year *</th>
+    <td>AMATH242</td>
+    <td>CO250</td>
+    <td>CO342</td>
+    <td>CS231</td>
     <td>CS234</td>
+    <td>CS338</td>
     <td>ECON254</td>
     <td>STAT330</td>
     <td>STAT331</td>
     <td>STAT332</td>
+    <td>STAT341</td>
+    <td>STAT444</td>
+    <td>STAT450</td>
   </tr>
 </table>
 
