@@ -1,13 +1,11 @@
 # `Bryan`
 
-### I'm currently a third year undergrad at the University of Waterloo
+### I'm currently a fourth year undergrad at the University of Waterloo
 
 ```
-Major: Honours Statistics
+Major: Honours Statistics, Computational Mathematics
 Minors: Computing, Combinatorics and Optimization
 ```
-
-My resume: [PDF Form](https://github.com/SomeArbitraryMathMajor/SomeArbitraryMathMajor/files/9155858/BryanZang__Resume.pdf)
 
 Core Courses I have taken:
 <table>
@@ -34,7 +32,7 @@ Core Courses I have taken:
     <td>STAT333</a></td>
   </tr>
   <tr>
-    <th>Third Year *</th>
+    <th>Third Year</th>
     <td>AMATH242</td>
     <td>CO250</td>
     <td>CO342</td>
@@ -48,6 +46,13 @@ Core Courses I have taken:
     <td>STAT341</td>
     <td>STAT444</td>
     <td>STAT450</td>
+  </tr>
+  <tr>
+    <th>Fourth Year *</th>
+    <td>AMATH251</td>
+    <td>CO367</td>
+    <td>CO487</td>
+    <td>STAT431</td>
   </tr>
 </table>
 
