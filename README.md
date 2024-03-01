@@ -53,6 +53,10 @@ Core Courses I have taken:
     <td>CO367</td>
     <td>CO487</td>
     <td>STAT431</td>
+    <td>AMATH382</td>
+    <td>CS479</td>
+    <td>STAT440</td>
+    <td>STAT437</td>
   </tr>
 </table>
 
