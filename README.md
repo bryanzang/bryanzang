@@ -4,7 +4,7 @@
 
 ```
 Major: Honours Statistics, Computational Mathematics
-Minors: Computing, Combinatorics and Optimization
+Minors: Computing
 ```
 
 Core Courses I have taken:
