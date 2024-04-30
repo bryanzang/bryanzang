@@ -1,6 +1,6 @@
 # `Bryan`
 
-### I'm currently a fourth year undergrad at the University of Waterloo
+### University of Waterloo Bachelors of Mathematics
 
 ```
 Major: Honours Statistics, Computational Mathematics
