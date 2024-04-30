@@ -48,7 +48,7 @@ Core Courses I have taken:
     <td>STAT450</td>
   </tr>
   <tr>
-    <th>Fourth Year *</th>
+    <th>Fourth Year</th>
     <td>AMATH251</td>
     <td>CO367</td>
     <td>CO487</td>
@@ -59,7 +59,5 @@ Core Courses I have taken:
     <td>STAT437</td>
   </tr>
 </table>
-
-\* Current ongoing school year
 
 For additional information regarding these courses: <a href="https://ucalendar.uwaterloo.ca/2324/COURSE/course-AMATH.html">AMATH courses</a>, <a href="https://ucalendar.uwaterloo.ca/2324/COURSE/course-CO.html">CO courses</a>, <a href="https://ucalendar.uwaterloo.ca/2324/COURSE/course-CS.html">CS courses</a>, <a href="https://ucalendar.uwaterloo.ca/2223/COURSE/course-ECON.html">ECON courses</a>, <a href="https://ucalendar.uwaterloo.ca/2324/COURSE/course-MATH.html">MATH courses</a>, <a href="https://ucalendar.uwaterloo.ca/2324/COURSE/course-STAT.html">STAT courses</a>
