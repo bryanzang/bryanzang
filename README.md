@@ -12,7 +12,6 @@ Minors: Computing
 - finding a way to solve LP optimization using duality theory with my [`Simplex`](https://github.com/bryanzang/UW-co250-Simplex) project
 - daily Leetcode problems
 
-### Languages I work with
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanzang&layout=compact)
 
 ### Core Courses I have taken
