@@ -7,7 +7,10 @@ Major: Honours Statistics, Computational Mathematics
 Minors: Computing
 ```
 
-Core Courses I have taken:
+### Languages
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanzang&layout=compact)
+
+### Core Courses I have taken
 <table>
   <tr>
     <th>First Year</th>
