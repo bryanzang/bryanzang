@@ -8,6 +8,7 @@ Minors: Computing
 ```
 
 ### Currently Working on
+- my [`personal website`](https://bryanzang.github.io/)
 - a statistical report using data from the [`HELIX`](https://www.projecthelix.eu/) study
 - finding a way to solve LP optimization using duality theory with my [`Simplex`](https://github.com/bryanzang/UW-co250-Simplex) project
 - daily Leetcode problems
