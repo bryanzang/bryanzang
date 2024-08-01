@@ -14,6 +14,7 @@ Minors: Computing
 - daily Leetcode problems
 
 ###
+<!--- ![My stats](https://github-readme-stats.vercel.app/api?username=bryanzang&show_icons=true&theme=nightowl) --->
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanzang&layout=compact)
 
 ### Core Courses I have taken
