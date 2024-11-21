@@ -7,12 +7,6 @@ Major: Honours Statistics, Computational Mathematics
 Minors: Computing
 ```
 
-### Currently Working on
-- my [`personal website`](https://bryanzang.github.io/) (incomplete)
-- a statistical report using data from the [`HELIX`](https://www.projecthelix.eu/index.php/es/data-inventory) study
-- finding a way to solve LP optimization using duality theory with my [`Simplex`](https://github.com/bryanzang/UW-co250-Simplex) project
-- daily Leetcode problems
-
 ###
 <!--- ![My stats](https://github-readme-stats.vercel.app/api?username=bryanzang&show_icons=true&theme=nightowl) --->
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanzang&layout=compact)
